@@ -1,0 +1,27 @@
+{
+    "name": "BestoMods",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Curated list of Mods to play Lethal Company verified and tested by Croquetilla.",
+    "dependencies": [
+        "2018-LC_API-2.1.1",
+        "BepInEx-BepInExPack-5.4.2100",
+        "vasanex-ItemQuickSwitch-1.1.0",
+        "tinyhoot-ShipLoot-1.0.0",
+        "x753-More_Suits-1.3.3",
+        "akkowo-More_suit_colors_for_more_suits-1.0.0",
+        "anormaltwig-LateCompany-1.0.4",
+        "FlipMods-LetMeLookDown-1.0.1",
+        "notnotnotswipez-MoreCompany-1.6.0",
+        "FlipMods-BetterStamina-1.2.1",
+        "MoreLethal-Pinger-3.1.6",
+        "Suskitech-AlwaysHearActiveWalkies-1.4.2",
+        "Renegades-FlashlightToggle-1.3.1",
+        "Renegades-WalkieUse-1.2.3",
+        "Evaisa-HookGenPatcher-0.0.5",
+        "Evaisa-LethalLib-0.5.1",
+        "malco-Lategame_Upgrades-2.0.0",
+        "Sligili-HDLethalCompany-1.5.2",
+        "Stoneman-LethalExperience-1.1.0"
+    ]
+}
