@@ -1,6 +1,6 @@
 {
     "name": "BestoMods",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "",
     "description": "Curated list of Mods to play Lethal Company verified and tested by Croquetilla.",
     "dependencies": [
@@ -20,20 +20,18 @@
         "Renegades-WalkieUse-1.2.3",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-0.5.1",
-        "malco-Lategame_Upgrades-2.0.0",
+        "malco-Lategame_Upgrades-2.1.0",
         "Sligili-HDLethalCompany-1.5.2",
-        "Stoneman-LethalExperience-1.1.0",
         "EladNLG-EladsHUD-1.1.0",
         "MassiveNewCoilers-FixCentipedeLag-2023.12.4",
-        "Nips-Brutal_Company_Plus-3.2.0",
-        "Sculas-BrutalCompanyAdditions-1.1.0",
         "FlipMods-MoreBlood-1.0.2",
         "Thorlar-HealthStation-1.0.1",
         "Krayken-DynamicDeadline-1.1.0",
         "togglemybits-Strange_Objects-1.2.1",
         "extraes-LethalLoudnessMeter-1.0.1",
         "ATK-ShipClock-0.9.0",
-        "Blorb-WeatherMultipliers-1.0.0"
-
+        "Blorb-WeatherMultipliers-1.0.0",
+        "AllToasters-QuickRestart-1.1.0",
+        "Stoneman-LethalProgression-1.1.1"
     ]
 }
