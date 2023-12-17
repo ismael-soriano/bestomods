@@ -1,6 +1,6 @@
 {
     "name": "BestoMods",
-    "version_number": "1.4.0",
+    "version_number": "1.5.0",
     "website_url": "",
     "description": "Curated list of Mods to play Lethal Company verified and tested by Croquetilla.",
     "dependencies": [
@@ -33,8 +33,13 @@
         "AllToasters-QuickRestart-1.2.0",
         "monkes_mods-JumpDelayPatch-1.0.1",
         "RugbugRedfern-Skinwalkers-2.0.1",
-        "Sligili-More_Emotes-1.2.1",
+        "Sligili-More_Emotes-1.2.2",
         "sunnobunno-YippeeMod-1.2.2",
-        "Hexnet111-SuitSaver-1.1.2"
+        "Hexnet111-SuitSaver-1.1.2",
+        "EliteMasterEric-Coroner-1.3.0",
+        "Drakorle-MoreItems-1.0.1",
+        "Verity-TooManySuits-1.0.4",
+        "Ryokune-CompatibilityChecker-1.1.5",
+        "kRYstall9-FastSwitchPlayerViewInRadar-1.3.1"
     ]
 }
