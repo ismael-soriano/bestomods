@@ -15,7 +15,7 @@ Installation
 4. As the mod is preconfigured, press the "Modded" play button in the top right to launch it right away. You must always launch the game this way if you want to play on a modded instance.
 
 #### Updating (Thunderstore/R2ModMan):
-1. Check for an updated version number on the modpack (either through a download icon being present next to TheMostLethalCompany in your mods list, or by checking the changelog here).
+1. Check for an updated version number on the modpack (either through a download icon being present next to BestoMods in your mods list, or by checking the changelog here).
 2. DO NOT press update. Instead, delete your current profile and create a new one.
 3. Select the profile, click "Get mods" on the left toolbar. Search for "BestoMods" and install. You should now be on the latest version.
 
