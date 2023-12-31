@@ -21,13 +21,8 @@ Installation
 
 # Added Configurations
 ## [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
-* All emotes have been put on F1 - F8 to follow the same pattern introduced by [ItemQuickSwitch](https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/)
-
-## [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
-* Changed the default settings to share the updates with all people in the lobby
-
+* All emotes have been put on F3 - F8 you will need to remap the keybinds for the point and dance in the settings manually to have it as it was before.
 
 # Incompatibilities
 The mods used in this pack are incompatible with the following mods:
-* [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/)
 * [Solos Bodycams](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams/)
