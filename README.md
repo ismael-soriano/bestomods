@@ -1,10 +1,12 @@
 # Description
 Modpack with all QoL and additions for the base game, all have been tested by me for possible bugs or issues between them, enjoy! :D
 
+> **Do not update any of the mods contained on this pack, as they have not been tested and probably would lead to incompatibilities and issues in the game.**
+
 Installation
 ---
 
-### On new version releases, I recommend reinstalling the modpack. Thunderstore fails to remove files that are no longer in a modpack on a profile, which will cause issues for your game.
+> **On new version releases, I recommend reinstalling the modpack. Thunderstore fails to remove files that are no longer in a modpack on a profile, which will cause issues for your game.**
 
 ### Method 1: Installing from searching the for modpack (recommended):
 
