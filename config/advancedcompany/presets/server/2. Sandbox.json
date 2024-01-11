@@ -1,6 +1,6 @@
 {
   "lobby": {
-    "lobby_size": 12,
+    "lobby_size": 16,
     "enable_cosmetics": true,
     "keep_open": true,
     "keep_open_on_moon": true
@@ -10,7 +10,7 @@
     "save_suits_after_death": true,
     "save_progress": false,
     "xp_multiplier": 1.5,
-    "starting_xp": 500
+    "starting_xp": 10000
   },
   "moons": {
     "experimentation_price": 0,
@@ -18,9 +18,9 @@
     "assurance_price": 0,
     "offense_price": 0,
     "march_price": 0,
-    "rend_price": 550,
-    "dine_price": 600,
-    "titan_price": 700,
+    "rend_price": 0,
+    "dine_price": 0,
+    "titan_price": 0,
     "activate_moon_prices": true,
     "clear_scrap_amount_multiplier": 1.0,
     "clear_scrap_value_multiplier": 1.0,
@@ -39,122 +39,128 @@
   "items": {
     "missile_launcher": {
       "active": true,
-      "price": 150,
+      "price": 0,
       "max_discount": 50,
-      "weight": 1.07619047
+      "weight": 1.06666672
     },
     "rocket_boots": {
       "active": true,
-      "price": 100,
+      "price": 0,
       "max_discount": 50,
       "weight": 1.0476191
     },
     "flippers": {
       "active": true,
-      "price": 80,
+      "price": 0,
       "max_discount": 40,
       "weight": 1.0476191
     },
     "vision_enhancer": {
       "active": true,
-      "price": 200,
+      "price": 0,
       "max_discount": 50,
-      "weight": 1.07619047,
+      "weight": 1.06666672,
       "battery_time": 180.0
     },
     "bulletproof_vest": {
       "active": true,
-      "price": 100,
+      "price": 0,
       "max_discount": 50,
       "weight": 1.14285719,
       "max_damage": 90,
       "turret_damage": 5,
       "shotgun_damage": 30,
-      "damage_reduction_at_full_health": 1.0,
-      "damage_reduction_at_no_health": 0.5,
+      "damage_reduction_at_full_health": 100.0,
+      "damage_reduction_at_no_health": 50.0,
       "destroy_at_no_health": true
     },
     "lightning_rod": {
       "active": true,
-      "price": 120,
+      "price": 0,
       "max_discount": 50,
-      "weight": 1.47619045
+      "weight": 1.4666667
+    },
+    "helmet_lamp": {
+      "active": true,
+      "price": 0,
+      "max_discount": 70,
+      "weight": 1.06666672
     },
     "radar_booster": {
       "active": true,
-      "price": 60,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.18095243
     },
     "zap_gun": {
       "active": true,
-      "price": 400,
+      "price": 0,
       "max_discount": 80,
-      "weight": 1.09523809
+      "weight": 1.08571434
     },
     "walkie_talkie": {
       "active": true,
-      "price": 12,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0
     },
     "tzp_inhalant": {
       "active": true,
-      "price": 120,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0
     },
     "extension_ladder": {
       "active": true,
-      "price": 60,
+      "price": 0,
       "max_discount": 60,
       "weight": 1.0
     },
     "stun_grenade": {
       "active": true,
-      "price": 30,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0476191
     },
     "shovel": {
       "active": true,
-      "price": 30,
+      "price": 0,
       "max_discount": 80,
-      "weight": 1.11428571
+      "weight": 1.104762
     },
     "pro_flashlight": {
       "active": true,
-      "price": 25,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0476191
     },
     "lockpicker": {
       "active": true,
-      "price": 20,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.06666672
     },
     "jetpack": {
       "active": true,
-      "price": 700,
+      "price": 0,
       "max_discount": 80,
-      "weight": 1.38095236
+      "weight": 1.48571432
     },
     "flashlight": {
       "active": true,
-      "price": 15,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0
     },
     "boombox": {
       "active": true,
-      "price": 60,
+      "price": 0,
       "max_discount": 80,
-      "weight": 1.152381
+      "weight": 1.14285719
     },
     "spray_paint": {
       "active": true,
-      "price": 50,
+      "price": 0,
       "max_discount": 80,
       "weight": 1.0
     }
@@ -264,7 +270,7 @@
       ]
     },
     "climbing_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -281,7 +287,7 @@
     "inventory_slots": {
       "active": false,
       "base": 4.0,
-      "change": 1000000.0,
+      "change": 1.0,
       "prices": [
         500,
         1000,
@@ -325,8 +331,8 @@
     },
     "extend_deadline_discount": {
       "active": false,
-      "base": 100.0,
-      "change": 10.0,
+      "base": 1.0,
+      "change": 0.1,
       "prices": [
         200,
         300,
@@ -341,7 +347,7 @@
     "landing_speed": {
       "active": true,
       "base": 1.0,
-      "change": 10.0,
+      "change": 0.1,
       "prices": [
         50,
         100,
