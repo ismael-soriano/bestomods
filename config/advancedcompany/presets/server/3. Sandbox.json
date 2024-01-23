@@ -9,8 +9,8 @@
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": false,
-    "xpmultiplier": 1.5,
-    "starting_xp": 500,
+    "xpmultiplier": 10.0,
+    "starting_xp": 30000,
     "day_length": 700
   },
   "moons": {
@@ -7193,8 +7193,8 @@
       {
         "key": "7 Dine",
         "value": {
-          "override_price": false,
-          "price": 600,
+          "override_price": true,
+          "price": 0,
           "override_dungeon_size": false,
           "dungeon_size": 1.3,
           "override_min_scrap_amount": false,
@@ -10063,8 +10063,8 @@
       {
         "key": "8 Titan",
         "value": {
-          "override_price": false,
-          "price": 700,
+          "override_price": true,
+          "price": 0,
           "override_dungeon_size": false,
           "dungeon_size": 2.35,
           "override_min_scrap_amount": false,
@@ -11498,8 +11498,8 @@
       {
         "key": "85 Rend",
         "value": {
-          "override_price": false,
-          "price": 550,
+          "override_price": true,
+          "price": 0,
           "override_dungeon_size": false,
           "dungeon_size": 1.2,
           "override_min_scrap_amount": false,
@@ -12933,8 +12933,8 @@
       {
         "key": "10 EGypt",
         "value": {
-          "override_price": false,
-          "price": 60,
+          "override_price": true,
+          "price": 0,
           "override_dungeon_size": false,
           "dungeon_size": 1.6,
           "override_min_scrap_amount": false,
@@ -14368,8 +14368,8 @@
       {
         "key": "2 Ganimedes",
         "value": {
-          "override_price": false,
-          "price": 1200,
+          "override_price": true,
+          "price": 0,
           "override_dungeon_size": false,
           "dungeon_size": 3.0,
           "override_min_scrap_amount": false,
@@ -17279,8 +17279,8 @@
         "key": "Boombox",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 60,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17292,7 +17292,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 100,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17303,8 +17303,8 @@
         "key": "Extension ladder",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 60,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 60,
           "override_weight": false,
@@ -17315,8 +17315,8 @@
         "key": "Flashlight",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 15,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17327,8 +17327,8 @@
         "key": "Flippers",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 100,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17339,8 +17339,8 @@
         "key": "Headset",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 40,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17351,8 +17351,8 @@
         "key": "Helmet lamp",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 50,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17364,7 +17364,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 600,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17376,7 +17376,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 100,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17387,8 +17387,8 @@
         "key": "Lockpicker",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 20,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17399,8 +17399,8 @@
         "key": "Missile launcher",
         "value": {
           "active": false,
-          "override_price": false,
-          "price": 80,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 70,
           "override_weight": false,
@@ -17411,8 +17411,8 @@
         "key": "Pro-flashlight",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 25,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17423,8 +17423,8 @@
         "key": "Radar-booster",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 60,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17435,8 +17435,8 @@
         "key": "Rocket boots",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 100,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17447,8 +17447,8 @@
         "key": "Shovel",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 30,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17459,8 +17459,8 @@
         "key": "Spray paint",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 50,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17471,8 +17471,8 @@
         "key": "Stun grenade",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 30,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17483,8 +17483,8 @@
         "key": "Tactical helmet",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 150,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17495,8 +17495,8 @@
         "key": "TZP-Inhalant",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 120,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17508,7 +17508,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 150,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17519,8 +17519,8 @@
         "key": "Walkie-talkie",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 12,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17531,8 +17531,8 @@
         "key": "Zap gun",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 400,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17543,8 +17543,8 @@
         "key": "Emergency Flare (ammo)",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 10,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17555,8 +17555,8 @@
         "key": "Flaregun",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 60,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17568,7 +17568,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 40,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17580,7 +17580,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 5,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": true,
@@ -17591,8 +17591,8 @@
         "key": "Hacking Tool",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 40,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17604,7 +17604,7 @@
         "value": {
           "active": true,
           "override_price": true,
-          "price": 150,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17615,8 +17615,8 @@
         "key": "Pinger",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 100,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17627,8 +17627,8 @@
         "key": "Remote Radar",
         "value": {
           "active": false,
-          "override_price": false,
-          "price": 150,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17639,8 +17639,8 @@
         "key": "Rocket Launcher",
         "value": {
           "active": false,
-          "override_price": false,
-          "price": 300,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17651,8 +17651,8 @@
         "key": "Shells",
         "value": {
           "active": true,
-          "override_price": false,
-          "price": 20,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17663,8 +17663,8 @@
         "key": "Toy Hammer",
         "value": {
           "active": false,
-          "override_price": false,
-          "price": 15,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,
@@ -17675,8 +17675,8 @@
         "key": "Utility Belt",
         "value": {
           "active": false,
-          "override_price": false,
-          "price": 290,
+          "override_price": true,
+          "price": 0,
           "override_max_discount": false,
           "max_discount": 80,
           "override_weight": false,

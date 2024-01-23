@@ -9,8 +9,8 @@
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": false,
-    "xpmultiplier": 1.5,
-    "starting_xp": 500,
+    "xpmultiplier": 0.0,
+    "starting_xp": 0,
     "day_length": 700
   },
   "moons": {
@@ -19344,7 +19344,7 @@
   },
   "player_perks": {
     "sprint_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.05,
       "prices": [
@@ -19356,7 +19356,7 @@
       ]
     },
     "jump_height": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.05,
       "prices": [
@@ -19368,7 +19368,7 @@
       ]
     },
     "jump_stamina": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19381,7 +19381,7 @@
       ]
     },
     "sprint_stamina": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19394,7 +19394,7 @@
       ]
     },
     "fall_damage": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.15,
       "prices": [
@@ -19406,7 +19406,7 @@
       ]
     },
     "damage": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19420,7 +19420,7 @@
       ]
     },
     "weight": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19432,7 +19432,7 @@
       ]
     },
     "weight_speed": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19444,7 +19444,7 @@
       ]
     },
     "deal_damage": {
-      "active": true,
+      "active": false,
       "base": 0.0,
       "change": 0.05,
       "prices": [
@@ -19490,7 +19490,7 @@
   },
   "ship_perks": {
     "scan_distance": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.1,
       "prices": [
@@ -19507,7 +19507,7 @@
       ]
     },
     "extra_battery": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.075,
       "prices": [
@@ -19571,7 +19571,7 @@
       ]
     },
     "save_loot": {
-      "active": true,
+      "active": false,
       "base": 0.0,
       "change": 0.1,
       "prices": [
@@ -19586,7 +19586,7 @@
       ]
     },
     "travel_discount": {
-      "active": true,
+      "active": false,
       "base": 1.0,
       "change": 0.075,
       "prices": [
