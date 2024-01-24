@@ -171,6 +171,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -1032,6 +1039,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -1824,6 +1838,13 @@
           },
           {
             "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bunny ears",
             "value": {
               "override": false,
               "rarity": 1
@@ -2691,6 +2712,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Toy car",
             "value": {
               "override": false,
@@ -3483,6 +3511,13 @@
           },
           {
             "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bunny ears",
             "value": {
               "override": false,
               "rarity": 1
@@ -4386,6 +4421,13 @@
           },
           {
             "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bunny ears",
             "value": {
               "override": false,
               "rarity": 1
@@ -5768,6 +5810,13 @@
             }
           },
           {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
             "key": "Potatoes",
             "value": {
               "override": false,
@@ -6650,6 +6699,13 @@
           },
           {
             "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bunny ears",
             "value": {
               "override": false,
               "rarity": 1

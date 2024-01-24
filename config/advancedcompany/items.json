@@ -109,18 +109,6 @@
       }
     },
     {
-      "key": "Hacking Tool",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 40,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Headset",
       "value": {
         "active": true,

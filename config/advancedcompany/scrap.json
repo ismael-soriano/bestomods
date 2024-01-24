@@ -205,6 +205,18 @@
       }
     },
     {
+      "key": "Bunny ears",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 499,
+        "override_max_value": false,
+        "max_value": 749,
+        "override_weight": false,
+        "weight": 1.0
+      }
+    },
+    {
       "key": "Candy",
       "value": {
         "active": true,
