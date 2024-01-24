@@ -1,6 +1,6 @@
 {
     "name": "BestoMods",
-    "version_number": "3.1.0",
+    "version_number": "3.1.1",
     "website_url": "",
     "description": "[Compatible with LC v49] Curated list of Mods to play Lethal Company verified and tested by Croquetilla.",
     "dependencies": [
@@ -55,11 +55,10 @@
         "Owen3H-IntroTweaks-1.4.2",
         "Ozone-BepInUtils-1.2.1",
         "Ozone-Runtime_Netcode_Patcher-0.2.5",
-        "PC-FireExitFlip-1.0.0",
         "Piggy-JesterStompShake-1.0.8",
         "Pooble-LCBetterSaves-1.7.3",
         "PostMortem-BetterLightning-1.0.3",
-        "PotatoePet-AdvancedCompany-1.0.131",
+        "PotatoePet-AdvancedCompany-1.0.132",
         "QuFix-Lidl_Suit-1.0.4",
         "Regis-ImmersiveCompany-0.2.7",
         "Regretti-ClassicDoomguy-1.0.0",
@@ -104,7 +103,6 @@
         "bigmcnugget-VanillaContentExpansion-0.1.8",
         "blink9803-DimmingFlashlights-1.0.1",
         "boring-CustomTranslatorCharLimit-1.0.2",
-        "boxofbiscuits97-QuotaRollover-2.2.1",
         "darmuh-darmuhsTerminalStuff-2.2.4",
         "darmuh-ghostCodes-1.5.1",
         "e3s1-BetterLadders-1.4.2",
