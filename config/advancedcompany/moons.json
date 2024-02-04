@@ -164,13 +164,6 @@
             }
           },
           {
-            "key": "Light shoes",
-            "value": {
-              "override": false,
-              "rarity": 1
-            }
-          },
-          {
             "key": "Bunny ears",
             "value": {
               "override": false,
@@ -563,45 +556,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -629,14 +615,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -779,6 +772,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -1032,13 +1032,6 @@
             }
           },
           {
-            "key": "Light shoes",
-            "value": {
-              "override": false,
-              "rarity": 1
-            }
-          },
-          {
             "key": "Bunny ears",
             "value": {
               "override": false,
@@ -1431,45 +1424,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -1497,14 +1483,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -1661,6 +1654,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -1837,13 +1837,6 @@
             }
           },
           {
-            "key": "Light shoes",
-            "value": {
-              "override": false,
-              "rarity": 1
-            }
-          },
-          {
             "key": "Bunny ears",
             "value": {
               "override": false,
@@ -2236,45 +2229,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -2302,14 +2288,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -2459,6 +2452,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -2705,13 +2705,6 @@
             }
           },
           {
-            "key": "Light shoes",
-            "value": {
-              "override": false,
-              "rarity": 1
-            }
-          },
-          {
             "key": "Bunny ears",
             "value": {
               "override": false,
@@ -3104,45 +3097,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -3170,14 +3156,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -3327,6 +3320,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -3510,13 +3510,6 @@
             }
           },
           {
-            "key": "Light shoes",
-            "value": {
-              "override": false,
-              "rarity": 1
-            }
-          },
-          {
             "key": "Bunny ears",
             "value": {
               "override": false,
@@ -3909,45 +3902,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -3975,14 +3961,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -4146,6 +4139,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -4826,45 +4826,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -4892,14 +4885,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -5048,6 +5048,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -5427,45 +5434,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -5493,14 +5493,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -5543,6 +5550,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -6209,45 +6223,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -6275,14 +6282,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -6438,6 +6452,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]
@@ -7104,45 +7125,38 @@
             }
           },
           {
-            "key": "Ouija Board",
-            "value": {
-              "override": false,
-              "rarity": 20
-            }
-          },
-          {
             "key": "Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
             "key": "Cookie Fumo",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Toimari Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Hamis Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
             "key": "Dirty Arson Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 5
             }
           },
           {
@@ -7170,14 +7184,21 @@
             "key": "Gremlin Can",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy Hammer",
+            "value": {
+              "override": false,
+              "rarity": 10
             }
           },
           {
             "key": "Gnarpy Plush",
             "value": {
               "override": false,
-              "rarity": 0
+              "rarity": 10
             }
           },
           {
@@ -7319,6 +7340,13 @@
             "value": {
               "override": false,
               "rarity": 20
+            }
+          },
+          {
+            "key": "Shy guy",
+            "value": {
+              "override": false,
+              "rarity": 15
             }
           }
         ]

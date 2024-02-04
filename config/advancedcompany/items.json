@@ -17,7 +17,7 @@
       "value": {
         "active": true,
         "override_price": false,
-        "price": 150,
+        "price": 125,
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
@@ -109,6 +109,18 @@
       }
     },
     {
+      "key": "Hacking Tool",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 120,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
       "key": "Headset",
       "value": {
         "active": true,
@@ -175,9 +187,21 @@
         "override_price": false,
         "price": 80,
         "override_max_discount": false,
-        "max_discount": 80,
+        "max_discount": 70,
         "override_weight": false,
-        "weight": 1.09523809
+        "weight": 1.0476191
+      }
+    },
+    {
+      "key": "Ouija Board",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 100,
+        "override_max_discount": false,
+        "max_discount": 0,
+        "override_weight": false,
+        "weight": 1.2
       }
     },
     {
@@ -229,6 +253,18 @@
       }
     },
     {
+      "key": "Remote Radar",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 150,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.0476
+      }
+    },
+    {
       "key": "Rocket boots",
       "value": {
         "active": true,
@@ -237,7 +273,19 @@
         "override_max_discount": false,
         "max_discount": 80,
         "override_weight": false,
-        "weight": 1.0476191
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "Rocket Launcher",
+      "value": {
+        "active": true,
+        "override_price": false,
+        "price": 80,
+        "override_max_discount": false,
+        "max_discount": 80,
+        "override_weight": false,
+        "weight": 1.38
       }
     },
     {
@@ -312,7 +360,7 @@
         "weight": 1.0
       }
     },
-    {
+        {
       "key": "Vision enhancer",
       "value": {
         "active": true,

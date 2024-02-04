@@ -1,11 +1,17 @@
 {
   "lobby": {
     "lobby_size": 12,
-    "enable_cosmetics": true,
     "keep_open": true,
     "keep_open_on_moon": false
   },
   "general": {
+    "global_scrap_amount_multiplier": 1.0,
+    "global_scrap_value_multiplier": 1.0,
+    "global_max_power_multiplier": 1.0,
+    "deadline_length": 3,
+    "start_credits": 60,
+    "activate_portable_terminal": true,
+    "enable_cosmetics": true,
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": false,
@@ -19340,6 +19346,19 @@
       "damage_reduction_at_full_health": 1.0,
       "damage_reduction_at_no_health": 0.5,
       "destroy_at_no_health": true
+    },
+    "helmet_lamp": {
+      "battery_time": 360.0
+    },
+    "headset": {
+      "battery_time": 800.0
+    },
+    "tactical_helmet": {
+      "battery_time": 900.0,
+      "battery_time_with_light": 500.0
+    },
+    "flippers": {
+      "speed": 1.0
     }
   },
   "player_perks": {
@@ -19390,6 +19409,19 @@
         500,
         750,
         1000,
+        1500
+      ]
+    },
+    "stamina_regen": {
+      "active": true,
+      "base": 1.0,
+      "change": 0.1,
+      "prices": [
+        200,
+        400,
+        600,
+        800,
+        1200,
         1500
       ]
     },

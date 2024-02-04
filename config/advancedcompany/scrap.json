@@ -937,18 +937,6 @@
       }
     },
     {
-      "key": "Ouija Board",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 60,
-        "override_max_value": false,
-        "max_value": 80,
-        "override_weight": false,
-        "weight": 1.2
-      }
-    },
-    {
       "key": "Painting",
       "value": {
         "active": true,
@@ -1306,6 +1294,18 @@
         "max_value": 110,
         "override_weight": false,
         "weight": 1.0
+      }
+    },
+    {
+      "key": "Toy Hammer",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 40,
+        "override_max_value": false,
+        "max_value": 200,
+        "override_weight": false,
+        "weight": 1.0952
       }
     },
     {
