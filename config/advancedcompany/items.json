@@ -109,18 +109,6 @@
       }
     },
     {
-      "key": "Hacking Tool",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 120,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Headset",
       "value": {
         "active": true,
@@ -193,18 +181,6 @@
       }
     },
     {
-      "key": "Ouija Board",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 100,
-        "override_max_discount": false,
-        "max_discount": 0,
-        "override_weight": false,
-        "weight": 1.2
-      }
-    },
-    {
       "key": "Personal Radar",
       "value": {
         "active": true,
@@ -253,18 +229,6 @@
       }
     },
     {
-      "key": "Remote Radar",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 150,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Rocket boots",
       "value": {
         "active": true,
@@ -274,18 +238,6 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Rocket Launcher",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 80,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.38
       }
     },
     {
@@ -360,7 +312,7 @@
         "weight": 1.0
       }
     },
-        {
+    {
       "key": "Vision enhancer",
       "value": {
         "active": true,

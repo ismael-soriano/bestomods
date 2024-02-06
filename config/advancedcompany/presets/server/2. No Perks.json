@@ -995,6 +995,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -1148,6 +1162,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -1295,6 +1316,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -1451,6 +1479,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -2430,6 +2465,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -2583,6 +2632,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -2730,6 +2786,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -2886,6 +2949,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -3865,6 +3935,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -4018,6 +4102,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -4165,6 +4256,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -4321,6 +4419,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -5300,6 +5405,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -5453,6 +5572,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -5600,6 +5726,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -5756,6 +5889,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -6735,6 +6875,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -6888,6 +7042,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -7035,6 +7196,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -7191,6 +7359,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -8170,6 +8345,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -8323,6 +8512,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -8470,6 +8666,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -8626,6 +8829,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -9605,6 +9815,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -9758,6 +9982,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -9905,6 +10136,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -10061,6 +10299,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -11040,6 +11285,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -11193,6 +11452,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -11340,6 +11606,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -11496,6 +11769,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -12475,6 +12755,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -12628,6 +12922,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -12775,6 +13076,13 @@
             },
             {
               "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Shy guy",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -12931,6 +13239,13 @@
               "value": {
                 "override": false,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Shy guy",
+              "value": {
+                "override": false,
+                "rarity": 15
               }
             }
           ]
@@ -17688,6 +18003,18 @@
           "override_weight": false,
           "weight": 1.0952
         }
+      },
+      {
+        "key": "Ouija Board",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.2
+        }
       }
     ],
     "scrap": [
@@ -19333,6 +19660,224 @@
           "max_value": 320,
           "override_weight": false,
           "weight": 1.3
+        }
+      },
+      {
+        "key": "Bunny ears",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 499,
+          "override_max_value": false,
+          "max_value": 749,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Toy Hammer",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 40,
+          "override_max_value": false,
+          "max_value": 200,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      }
+    ],
+    "unlockables": [
+      {
+        "key": "Cozy lights",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 140
+        }
+      },
+      {
+        "key": "Fatalities Sign",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100
+        }
+      },
+      {
+        "key": "Goldfish",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 50
+        }
+      },
+      {
+        "key": "Green suit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 60
+        }
+      },
+      {
+        "key": "Hazard suit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 60
+        }
+      },
+      {
+        "key": "JackOLantern",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 50
+        }
+      },
+      {
+        "key": "Large Rug",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 110
+        }
+      },
+      {
+        "key": "Pajama suit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 60
+        }
+      },
+      {
+        "key": "Plushie pajama man",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100
+        }
+      },
+      {
+        "key": "Purple Suit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 900
+        }
+      },
+      {
+        "key": "Record player",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 120
+        }
+      },
+      {
+        "key": "Romantic table",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 120
+        }
+      },
+      {
+        "key": "Shower",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 180
+        }
+      },
+      {
+        "key": "Table",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 70
+        }
+      },
+      {
+        "key": "Television",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 130
+        }
+      },
+      {
+        "key": "Toilet",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 150
+        }
+      },
+      {
+        "key": "Welcome mat",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 40
+        }
+      },
+      {
+        "key": "Dartboard",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 120
+        }
+      },
+      {
+        "key": "Inverse Teleporter",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 425
+        }
+      },
+      {
+        "key": "Loud horn",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100
+        }
+      },
+      {
+        "key": "Mirror",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100
+        }
+      },
+      {
+        "key": "Signal translator",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100
+        }
+      },
+      {
+        "key": "Small Rug",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 80
+        }
+      },
+      {
+        "key": "Teleporter",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 375
         }
       }
     ],

@@ -737,9 +737,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 749,
+        "min_value": 624,
         "override_max_value": false,
-        "max_value": 999,
+        "max_value": 874,
         "override_weight": false,
         "weight": 1.0476191
       }
@@ -934,6 +934,18 @@
         "max_value": 160,
         "override_weight": false,
         "weight": 1.05
+      }
+    },
+    {
+      "key": "Ouija Board",
+      "value": {
+        "active": true,
+        "override_min_value": false,
+        "min_value": 60,
+        "override_max_value": false,
+        "max_value": 80,
+        "override_weight": false,
+        "weight": 1.2
       }
     },
     {
@@ -1205,9 +1217,9 @@
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 0,
+        "min_value": 120,
         "override_max_value": false,
-        "max_value": 2,
+        "max_value": 240,
         "override_weight": false,
         "weight": 1.18
       }
@@ -1294,18 +1306,6 @@
         "max_value": 110,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Toy Hammer",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 40,
-        "override_max_value": false,
-        "max_value": 200,
-        "override_weight": false,
-        "weight": 1.0952
       }
     },
     {
